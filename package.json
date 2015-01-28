@@ -1,0 +1,12 @@
+{
+  "name": "iojs",
+  "version": "0.0.0",
+  "description": "tools to build the chocolatey io.js package",
+  "main": "index.js",
+  "author": "jden <jason@denizac.org>",
+  "license": "ISC",
+  "scripts": {
+    "make": "choco pack",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}

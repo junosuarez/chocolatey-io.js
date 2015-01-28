@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata>
+    <version>1.0.4</version>
+    <authors>io.js contributors</authors>
+    <owners>jden</owners>
+    <licenseUrl>https://github.com/iojs/io.js/blob/v1.x/LICENSE</licenseUrl>
+    <projectUrl>https://iojs.org/</projectUrl>
+    <iconUrl>https://iojs.org/images/1.0.0.png</iconUrl>
+    <id>io.js</id>
+    <title>io.js</title>
+    <requireLicenseAcceptance>true</requireLicenseAcceptance>
+    <description>io.js is an npm compatible platform originally based on node.js™.</description>
+    <summary>ISC License</summary>
+    <tags>iojs, node, nodejs, node.js, io.js</tags>
+  </metadata>
+</package>
