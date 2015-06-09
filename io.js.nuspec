@@ -14,4 +14,9 @@
     <summary>ISC License</summary>
     <tags>iojs, node, nodejs, node.js, io.js</tags>
   </metadata>
+  <files>
+    <file src="tools\chocolateyInstall.ps1" target="tools" />
+    <file src="README.md" target="content" />
+    <file src="package.json" target="content" />
+  </files>
 </package>
